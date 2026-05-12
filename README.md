@@ -2,7 +2,7 @@
 
 A deep learning system that detects AI-generated (deepfake) faces with **99.94% confidence**, using a fine-tuned Xception model and Grad-CAM visual explanations.
 
-> Built as a major project — includes both the ML training pipeline and a full Django web app for real-time inference.
+> Built as a major project which includes both the ML training pipeline and a full Django web app for real-time inference.
 
 ---
 
